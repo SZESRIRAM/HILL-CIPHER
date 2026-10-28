@@ -111,7 +111,7 @@ int main()
 }
 ```
 ## OUTPUT
-<img width="325" height="70" alt="image" src="https://github.com/user-attachments/assets/4ca3793c-2435-416d-8906-eefaa7096f91" />
+<img width="310" height="58" alt="image" src="https://github.com/user-attachments/assets/c5d35f7c-cdf4-4f90-bee4-474b5432a060" />
 
 
 
